@@ -5,6 +5,8 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { HomePage } from '../pages/home/home';
 import { FlashlightPage } from "../pages/flashlight/flashlight";
+
+
 @Component({
   templateUrl: 'app.html'
 })
